@@ -1,0 +1,1 @@
+﻿c系语言尤其需要框架技术的补充，去增强语言功能，将开发形成final appmodel api stack。
